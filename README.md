@@ -20,6 +20,15 @@
 
 ## 使用方法
 
+第一步，安装第三方依赖库
+
+第二步，配置mysql数据库连接信息
+
+第三步，采集新闻数据，运行爬虫脚本sina_news_spider.py
+
+第四步，完成数据采集之后，运行数据分析脚本sina_news_analysis.py
+
+项目预期达成效果可见于微信推送：https://mp.weixin.qq.com/s?__biz=MzIwNjY0MTIwNA==&mid=2247484102&idx=1&sn=99c1723f1d6c5aa6b43c58591df5a330&chksm=971fc39da0684a8b16ccfb36d5d7b38aec64d11d83666ab5ea7f94bef61d03834dbcca3d5767&token=502482994&lang=zh_CN#rd
 
 
 
